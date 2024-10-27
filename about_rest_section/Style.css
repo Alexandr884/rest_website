@@ -1,0 +1,51 @@
+.img1{
+position: absolute;
+top: 60px;
+left: 100px;
+}
+.img2{
+    position: absolute;
+    
+    top: 90px;
+    left: 265px;
+}
+.img3{
+    position: absolute;
+  
+    top: 240px;
+    right: 100px;
+
+}
+.heading{
+    position: absolute;
+   
+    width: 200px;
+    left: 850px;
+    top: 70px;
+    font-size: 35px;
+}
+.rest_text{
+    position: absolute;
+   
+    font-size: 20px;
+    text-align: center;
+    width: 600px;
+    height: 200px;
+    top: 150px;
+    left: 650px;
+}
+.button_booking{
+    position: absolute;
+   
+   width: 250px;
+   height: 60px;
+    top: 350px;
+    left: 825px;
+}
+.btn{
+    text-align: center;
+    background-color: white;
+    padding: 20px 60px;
+    border-radius: 30px;
+    outline: 1px;
+}
